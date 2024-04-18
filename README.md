@@ -134,9 +134,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@Benjjall](https://twitter.com/Benjjall) - benjjallison@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/BenjaminAllison11/Steam-Game-Genre-Distribution](https://github.com/BenjaminAllison11/Steam-Game-Genre-Distribution)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
